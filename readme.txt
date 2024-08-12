@@ -1,4 +1,4 @@
-Free Download Source Code "pet_shop"
+
 
 FIRST Download
 
@@ -6,11 +6,11 @@ FIRST Download
 
 2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
 
-3"pet_shop"
+3"pet_store"
 
 4. Download the zip file/ download winrar
 
-5. Extract the file and copy "pet_shop" folder
+5. Extract the file and copy "pet_store" folder
 
 6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
 
