@@ -12,7 +12,7 @@ FIRST Download
 
 5. Extract the file and copy "pet_store" folder
 
-6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
+6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs)
 
 7. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
