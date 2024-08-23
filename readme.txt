@@ -21,7 +21,7 @@ FIRST Download
 6. Import pet_shop_db.sql file(given inside the zip package in SQL file folder)
 
 7.Run the script http:/pet_store
-**LOGIN DETAILS** 
+****LOGIN DETAILS**** 
 
 Admin
 user: admin
