@@ -23,7 +23,7 @@ FIRST Download
 7.Run the script http:/pet_store
 ****LOGIN DETAILS**** 
 
-Admin.
+Admin..
 user: admin
 pass: admin123
 
