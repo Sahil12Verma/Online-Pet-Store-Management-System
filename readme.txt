@@ -8,7 +8,7 @@ FIRST Download
 
 3"pet_store".
 
-4. Download the zip file// download winrar
+4. Download the zip file// download winrar.
 
 5. Extract the file and copy "pet_store" folder
 
