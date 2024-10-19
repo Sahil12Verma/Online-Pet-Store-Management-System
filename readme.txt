@@ -16,7 +16,7 @@ FIRST Download
 
 7. Open PHPMyAdmin (http://localhost/phpmyadmin)
 
-8. Create a database with name pet_shop_db
+8. Create a database with name pet_shop_db.
 
 6. Import pet_shop_db.sql file(given inside the zip package in SQL file folder)
 
@@ -26,4 +26,4 @@ FIRST Download
 Admin...
 user: admin
 pass: admin123
-
+
